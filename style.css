@@ -1,0 +1,51 @@
+body{
+    margin: 4em;
+}
+div.hi1 p{
+    text-align: justify;
+}
+div.hi2 p{
+    text-align: justify;
+}
+div.h1 p{
+    text-align: justify;
+}
+div.h3 p{
+    text-align: justify;
+}
+div.hi3 p{
+    text-align: justify;
+}
+div.hi4 p{
+    text-align: justify;
+}
+div.h2{
+    padding: 7px 650px;
+}
+div.hi3 h2{
+    padding: 7px 650px;
+}
+div.hi4 h2{
+    padding: 7px 650px;
+}
+div.hi5 h3{
+     padding: 7px 650px;
+}
+div.hi6 h2{
+     padding: 7px 600px;
+    text-align: justify;
+}
+div.hi7 h5{
+    padding:  7px 650px;
+}
+div.hi8 h5{
+    padding:  7px 650px;
+}
+div.hi9 h2{
+     padding: 7px 630px;
+    
+}
+div.hi9  p{
+    font-family: italic;
+    text-align: justify;
+}
